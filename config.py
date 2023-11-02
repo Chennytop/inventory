@@ -1,0 +1,5 @@
+host = 'localhost'
+password = 'Zaq12wsX'
+user = 'postgres'
+db_name = 'inventory'
+port = '5432'
