@@ -1,4 +1,4 @@
-host = 'localhost'
+host = '84.252.137.197'
 password = 'Zaq12wsX'
 user = 'postgres'
 db_name = 'inventory'
