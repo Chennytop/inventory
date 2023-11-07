@@ -25,7 +25,7 @@ class MainApp(App):
             port = port
             )
             
-            SM.current = 'MainScreen'
+            SM.current = 'MenuScreen'
             connection.close()
             return SM
         except Exception as _ex:
